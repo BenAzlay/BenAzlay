@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin Azoulay == BenAzlay 👋
+# Hi, I'm Benjamin Azoulay 👋
 
 Welcome to my little corner of GitHub! I'm a software engineer by trade, an innovator by passion, and a Web3 adventurer by heart. With over **5 years of full-stack wizardry** and **3 years exploring the Blockchain multiverse**, I build things that (hopefully) make the decentralized world a better place.
 
