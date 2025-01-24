@@ -1,10 +1,10 @@
 # Hi, I'm Benjamin Azoulay 👋
 
-Welcome to my little corner of GitHub! I'm a software engineer by trade, an innovator by passion, and a Web3 adventurer by heart. With over **5 years of full-stack wizardry** and **3 years exploring the Blockchain multiverse**, I build things that (hopefully) make the decentralized world a better place.
+Welcome to my little corner of GitHub! I'm a software engineer by trade, an innovator by passion, and a Web3 adventurer by heart. With over **5 years of full-stack wizardry** and **3 years dwelling in the Blockchain multiverse**, I build things that (hopefully) make the decentralized world a better place.
 
 ---
 
-## 🌟 Projects I'm Proud Of
+## 🌟 Projects I'm Most Proud Of
 
 ### [Riskophobe](https://riskophobe.com)
 Ever wished options trading existed in crypto? Meet Riskophobe, the dApp that lets you buy tokens with a twist—you can return them and reclaim your collateral. It’s risk management, but make it DeFi.
