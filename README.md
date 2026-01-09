@@ -1,29 +1,62 @@
 # Hi, I'm Benjamin Azoulay 👋
 
-Welcome to my little corner of GitHub! I'm a software engineer by trade, an innovator by passion, and a Web3 adventurer by heart. With over **5 years of full-stack wizardry** and **3 years dwelling in the Blockchain multiverse**, I build things that (hopefully) make the decentralized world a better place.
+I'm a **Senior Web3 Full-Stack Engineer** focused on building **production-grade decentralized systems** at scale.  
+I specialize in **frontend-first Web3 architecture**, owning the user-facing layer where protocols meet real users.
+
+I bring **6+ years of full-stack experience** and **4+ years in Web3**, with end-to-end ownership of DeFi products used in production, securing **tens of millions in TVL**.
 
 ---
 
-## 🌟 Projects I'm Most Proud Of
+## 🌟 Selected Projects (Production & Ownership)
 
-### [Riskophobe](https://riskophobe.com)
-Ever wished options trading existed in crypto? Meet Riskophobe, the dApp that lets you buy tokens with a twist—you can return them and reclaim your collateral. It’s risk management, but make it DeFi.
+### 🚀 Stargate (VeChain)
+Frontend lead for VeChain’s **Stargate** platform, supporting the network’s transition from **Proof of Authority (PoA)** to **Delegated Proof of Stake (DPoS)**.
 
-### [Flashstake](https://flashstake.io)
-Staking rewards now, not later. Flashstake rewrites the rules by giving you instant upfront rewards for staking. Yes, it’s as cool as it sounds—like time travel for DeFi.
-
----
-
-## 🚀 What I Do
-
-- **Full-Stack Development**: React, Next.js, Node.js, TypeScript—I speak fluent frontend and backend.
-- **Blockchain & Web3**: Solidity, Hardhat, The Graph, ethers.js—making smart contracts smarter.
-- **Smart Contract Development**: DeFi, NFTs, and beyond. If it’s on the blockchain, I’m probably building it.
-- **GraphQL**: Turning blockchain data into something humans (and dApps) can understand.
+- Owned **frontend architecture and UX-critical flows**
+- Designed and implemented **NFT-based staking** and **validation node management**
+- Supported **$81M TVL** across **6,000+ NFT holders**
+- Production-critical system used by the VeChain ecosystem
 
 ---
 
-## 🌐 Connect with Me
+### ⚡ Flashstake
+An instant upfront-yield DeFi protocol.
 
-Want to dive deeper into my world? Check out my [Linktree](https://linktr.ee/benjaminazoulay). Whether you’re here to collaborate, brainstorm, or just share some Web3 memes, my inbox is always open!
+- **Owned end-to-end delivery**, from smart contract integration to frontend architecture
+- Built production **React/Next.js dApp interfaces** tightly coupled with protocol mechanics
+- Reached **$40M market cap** and **$20M TVL**
+- Implemented yield mechanics offering up to **90% APY**
 
+---
+
+### 🛡️ Riskophobe
+An options trading dApp designed to reduce downside risk in volatile markets.
+
+- **Owned end-to-end design and full-stack implementation**
+- Built smart-contract-driven options flows allowing users to reclaim invested funds
+- Fully **open-source** protocol and frontend
+
+---
+
+## 🧠 What I Work On
+
+- **Web3 Frontends (Primary Focus)**  
+  React, Next.js, TypeScript — building production dApp interfaces that directly orchestrate smart contracts and protocol flows.
+
+- **Blockchain & DeFi**  
+  Solidity, Ethereum, Hardhat, ethers.js, web3.js — integrating on-chain logic into real user-facing systems.
+
+- **Protocol Data & Indexing**  
+  The Graph, GraphQL — turning raw on-chain data into reliable, queryable application state.
+
+- **End-to-End Ownership**  
+  From architecture and trade-offs to delivery, scaling, and long-term maintenance.
+
+---
+
+## 🌐 Connect
+
+You can find more about my work, writing, and links here:  
+👉 https://linktr.ee/benjaminazoulay
+
+I'm always open to collaborating on **serious Web3 products**, protocol tooling, or technically ambitious ideas.
