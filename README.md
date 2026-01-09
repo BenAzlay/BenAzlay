@@ -57,6 +57,6 @@ An options trading dApp designed to reduce downside risk in volatile markets.
 ## 🌐 Connect
 
 You can find more about my work, writing, and links here:  
-👉 https://linktr.ee/benjaminazoulay
+👉 https://benjaminazoulay.com
 
 I'm always open to collaborating on **serious Web3 products**, protocol tooling, or technically ambitious ideas.
