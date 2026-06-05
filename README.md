@@ -6,20 +6,6 @@ I bring **6+ years of full-stack experience** across **AI products, SaaS, and We
 
 ---
 
-## ⭐ Flagship: [Amarnai](https://amarnai.com) — Open-source AI email triage
-
-**[amarnai.com](https://amarnai.com)** · **[github.com/amarnai/amarnai](https://github.com/amarnai/amarnai)**
-
-Gmail-first AI email triage. Describe each folder in a sentence and Amarnai sorts new mail as it arrives — and works through the thousands of threads already sitting in your inbox.
-
-- **Plain-English taxonomy** — define a folder tree, describe each folder in a sentence. No rules, no code.
-- **AI-drafted replies** — generated for your review, never sent without your approval.
-- **Privacy by design** — read-only Gmail OAuth, no email bodies stored, every routing decision explained.
-- **Open-source (AGPL-3.0)** — use the hosted version, or self-host with Docker against any model (including local Ollama for fully offline use).
-- **Full-stack, solo-built** — Next.js, TypeScript, and frontier-model (Claude) integration end to end.
-
----
-
 ## 🧠 What I Do
 
 I work across the whole stack and bring products from idea to production:
@@ -34,8 +20,13 @@ I work across the whole stack and bring products from idea to production:
 
 ## 🚀 Selected Work
 
-### 🤖 Amarnai — AI email triage *(flagship, open-source)*
-Gmail-first AI triage that sorts your inbox into folders you define in plain English and drafts replies for your approval. Privacy-first, self-hostable, AGPL-3.0.
+### 🤖 Amarnai — Open-source AI email triage
+Gmail-first AI triage that sorts your inbox into folders you define in plain English, drafts replies for your approval, and explains every routing decision. Built full-stack, solo.
+- **Plain-English taxonomy** — describe each folder in a sentence; no rules, no code
+- **AI-drafted replies** — generated for your review, never sent without your approval
+- **Privacy by design** — read-only Gmail OAuth, no email bodies stored
+- **Open-source (AGPL-3.0)** — hosted, or self-host with Docker against any model (including local Ollama)
+- Next.js, TypeScript, frontier-model (Claude) integration end to end
 → [amarnai.com](https://amarnai.com) · [github.com/amarnai/amarnai](https://github.com/amarnai/amarnai)
 
 ### 🌐 Stargate (VeChain)
@@ -49,11 +40,6 @@ Frontend lead for VeChain's **Stargate** staking platform, supporting the networ
 An instant upfront-yield DeFi protocol. Owned end-to-end delivery, from smart-contract integration to frontend architecture.
 - Built production React/Next.js dApp interfaces tightly coupled with protocol mechanics
 - Reached **$40M market cap** and **$20M TVL**
-
-### 🛡️ Riskophobe *(open-source)*
-An options-style DeFi dApp that lets users reclaim invested funds if a token's price drops. Designed and built full-stack, 100% solo.
-- Solidity, Hardhat, GraphQL, Next.js, Wagmi, TailwindCSS
-- [Contracts](https://github.com/BenAzlay/riskophobe-contracts) · [Frontend](https://github.com/BenAzlay/riskophobe-frontend) · [Subgraph](https://github.com/BenAzlay/riskophobe-subgraph)
 
 ---
 
